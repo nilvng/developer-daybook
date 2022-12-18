@@ -1,0 +1,4 @@
+- ## Definition
+- Object-like relational database
+- similar to [[SQL]] but they have inheritance, function overloading
+-
