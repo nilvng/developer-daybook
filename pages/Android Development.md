@@ -1,0 +1,4 @@
+- Native language: [[Kotlin]]
+- Architecture: [[MVC]]
+- topic:: career
+-

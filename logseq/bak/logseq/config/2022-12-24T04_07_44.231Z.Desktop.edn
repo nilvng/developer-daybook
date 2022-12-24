@@ -296,5 +296,5 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:excluded-pages? false, :orphan-pages? true}
+ :graph/settings {:excluded-pages? false}
  }
