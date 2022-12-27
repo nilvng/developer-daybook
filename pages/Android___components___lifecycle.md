@@ -1,0 +1,2 @@
+- ![8dc30a4c12ab71b.png](https://developer.android.com/static/codelabs/basic-android-kotlin-training-fragments-navigation-component/img/8dc30a4c12ab71b.png)
+-

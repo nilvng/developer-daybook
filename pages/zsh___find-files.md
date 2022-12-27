@@ -1,0 +1,6 @@
+- `find [location] -name [name to search] 2>dev/dev/null`
+	- `2>dev/dev/null` ignore dev files
+-
+- `find [location] -size +5k`
+	- find by size
+-

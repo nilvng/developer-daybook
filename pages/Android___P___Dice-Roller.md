@@ -1,0 +1,9 @@
+- ## Products
+- A [[Kotlin]] -based dice game, Lucky Dice Roll, which allows you to specify a lucky number. A player will win if they roll the lucky number.
+- ## Outcomes
+	- Ability to create and run a [[Kotlin]] program that uses variables, functions with arguments, classes with methods, and prints a result to the console
+	- How to use `if` and `else` statements.
+	- How to compare values using operators such as greater than (`>`), less than (`<`), and equal to (`==`).
+	- How to use `when` statements to choose an option based on a given value.
+	- What the `Boolean` data type is and how to use its `true` and `false` values for decision making.
+-

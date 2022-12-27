@@ -1,0 +1,3 @@
+- ## Builtins and commands
+	- `disable builtin ls`
+-
