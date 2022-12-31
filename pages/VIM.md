@@ -5,35 +5,12 @@ source:: vim-adventure.com
 - cheatsheet
 - ![Vim Cheat Sheet.pdf](../assets/Vim_Cheat_Sheet_1671927601068_0.pdf)
 -
-- ## Insert and Read Mode
-  collapsed:: true
-	- `i`
-	- `esc` or `ctrl+c`
-- `i`
-- `esc`  or `ctrl+c`
-- ## Moving around
-  collapsed:: true
-	- ### Word
-	- ### Sentence
-	- ### paragraph
-- h
-- j
-- k
-- l
--
-- ## Search
-	- ### fulltext
-	- ### regex
--
-- ## Move
-  collapsed:: true
-	- ### screen
-	- ### line
-	-
-- w
-- e
-- b
-- B: word or not WORD???
+- ## Modes
+	- View Mode `esc` or `ctrl+c`
+	- Edit Mode `i`
+	- Select Mode `v`
+- [[Search]]
+- [[Move]]
 - ## Editing
 - x: Delete [count] characters under and after the cursor in the current line
 -

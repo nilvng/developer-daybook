@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["android/layout"]
+ :favorites ["Product Design" "Book" "iOS" "VIM" "Android"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -297,4 +297,5 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:excluded-pages? false, :orphan-pages? true}
+ :feature/enable-timetracking? false
  }

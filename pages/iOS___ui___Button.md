@@ -1,0 +1,13 @@
+- ## Button.Configuration
+	- ### Samples
+	  collapsed:: true
+		- `UIButton.Configuration.plain()`
+		- `UIButton.Configuration.gray()`
+		- `UIButton.Configuration.tinted()`
+		- `UIButton.Configuration.filled()`
+		- ![image.png](../assets/image_1672281616215_0.png)
+- ## Padding
+	- Just constraint the height
+- ## title
+	- using `setTitle(title, state)`
+-

@@ -1,4 +1,4 @@
-category:: Book
+page-type:: [[Book]]
 author:: Robert C. Martin
 
 - ## Principles, patterns, practices in writing code
