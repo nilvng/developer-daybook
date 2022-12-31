@@ -4,15 +4,66 @@
  {:block/name "advanced database concepts",
   :block/created-at 1671858373524,
   :block/updated-at 1671858373524}
+ {:block/name "android",
+  :block/created-at 1672460900572,
+  :block/updated-at 1672460900572}
  {:block/name "android development",
   :block/created-at 1671858373568,
   :block/updated-at 1671858373568}
+ {:block/name "android/architecture",
+  :block/created-at 1672460901286,
+  :block/updated-at 1672460901286}
+ {:block/name "android/architecture/ui-layer",
+  :block/created-at 1672460901331,
+  :block/updated-at 1672460901331}
+ {:block/name "android/components",
+  :block/created-at 1672460901453,
+  :block/updated-at 1672460901453}
+ {:block/name "android/components/activity",
+  :block/created-at 1672460901452,
+  :block/updated-at 1672460901452}
+ {:block/name "android/components/fragment",
+  :block/created-at 1672460901490,
+  :block/updated-at 1672460901490}
+ {:block/name "android/components/lifecycle",
+  :block/created-at 1672460901844,
+  :block/updated-at 1672460901844}
+ {:block/name "android/components/livedata",
+  :block/created-at 1672460901543,
+  :block/updated-at 1672460901543}
+ {:block/name "android/components/navigation",
+  :block/created-at 1672460901904,
+  :block/updated-at 1672460901904}
+ {:block/name "android/layout",
+  :block/created-at 1672460902353,
+  :block/updated-at 1672460902353}
+ {:block/name "android/p",
+  :block/created-at 1672460900993,
+  :block/updated-at 1672460900993}
+ {:block/name "android/p/birthday-card-app",
+  :block/created-at 1672460900989,
+  :block/updated-at 1672460900989}
+ {:block/name "android/p/dice-roller",
+  :block/created-at 1672460901254,
+  :block/updated-at 1672460901254}
+ {:block/name "apple human interface guideline",
+  :block/created-at 1672460903122,
+  :block/updated-at 1672460903122}
+ {:block/name "async programming",
+  :block/created-at 1672460902501,
+  :block/updated-at 1672460902501}
+ {:block/name "author",
+  :block/created-at 1672460902535,
+  :block/updated-at 1672460902535}
  {:block/name "b",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
  {:block/name "backend",
   :block/created-at 1671858373515,
   :block/updated-at 1671858373515}
+ {:block/name "book",
+  :block/created-at 1672460902517,
+  :block/updated-at 1672460902517}
  {:block/name "c",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
@@ -31,6 +82,9 @@
  {:block/name "category",
   :block/created-at 1671858373832,
   :block/updated-at 1671858373832}
+ {:block/name "clean code",
+  :block/created-at 1672460902538,
+  :block/updated-at 1672460902538}
  {:block/name "coding-language",
   :block/created-at 1671858373833,
   :block/updated-at 1671858373833}
@@ -43,6 +97,24 @@
  {:block/name "dec 25th, 2022",
   :block/created-at 1671886803967,
   :block/updated-at 1671886803967}
+ {:block/name "dec 27th, 2022",
+  :block/created-at 1672460903573,
+  :block/updated-at 1672460903573}
+ {:block/name "dec 28th, 2022",
+  :block/created-at 1672460903597,
+  :block/updated-at 1672460903597}
+ {:block/name "dec 30th, 2022",
+  :block/created-at 1672460903616,
+  :block/updated-at 1672460903616}
+ {:block/name "dec 31st, 2022",
+  :block/created-at 1672460900138,
+  :block/updated-at 1672460900138}
+ {:block/name "design-pattern",
+  :block/created-at 1672460902556,
+  :block/updated-at 1672460902556}
+ {:block/name "design-pattern/event-sourcing",
+  :block/created-at 1672460902577,
+  :block/updated-at 1672460902577}
  {:block/name "doing",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
@@ -55,24 +127,108 @@
  {:block/name "in-progress",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
+ {:block/name "ios",
+  :block/created-at 1672460903106,
+  :block/updated-at 1672460903106}
+ {:block/name "ios/layout",
+  :block/created-at 1672460903281,
+  :block/updated-at 1672460903281}
+ {:block/name "ios/ui",
+  :block/created-at 1672460903302,
+  :block/updated-at 1672460903302}
+ {:block/name "ios/ui/button",
+  :block/created-at 1672460903301,
+  :block/updated-at 1672460903301}
  {:block/name "kotlin",
   :block/created-at 1671858373631,
   :block/updated-at 1671858373631}
+ {:block/name "kotlin/control-flow",
+  :block/created-at 1672460902687,
+  :block/updated-at 1672460902687}
+ {:block/name "kotlin/coroutine",
+  :block/created-at 1672460902710,
+  :block/updated-at 1672460902710}
+ {:block/name "kotlin/elvis-expression",
+  :block/created-at 1672460902723,
+  :block/updated-at 1672460902723}
+ {:block/name "kotlin/for-array",
+  :block/created-at 1672460902736,
+  :block/updated-at 1672460902736}
+ {:block/name "kotlin/if-else",
+  :block/created-at 1672460902755,
+  :block/updated-at 1672460902755}
+ {:block/name "kotlin/logging",
+  :block/created-at 1672460902784,
+  :block/updated-at 1672460902784}
+ {:block/name "kotlin/returns-and-jump",
+  :block/created-at 1672460902884,
+  :block/updated-at 1672460902884}
+ {:block/name "kotlin/style-guide",
+  :block/created-at 1672460902899,
+  :block/updated-at 1672460902899}
+ {:block/name "kotlin/threads",
+  :block/created-at 1672460902919,
+  :block/updated-at 1672460902919}
+ {:block/name "kotlin/when-statement",
+  :block/created-at 1672460902942,
+  :block/updated-at 1672460902942}
+ {:block/name "kotlin/when-statement/enum",
+  :block/created-at 1672460902971,
+  :block/updated-at 1672460902971}
+ {:block/name "kotlin/when-statement/free-style",
+  :block/created-at 1672460903041,
+  :block/updated-at 1672460903041}
+ {:block/name "kotlin/when-statement/local-variable",
+  :block/created-at 1672460903068,
+  :block/updated-at 1672460903068}
+ {:block/name "kotlin/when-statement/range",
+  :block/created-at 1672460903078,
+  :block/updated-at 1672460903078}
+ {:block/name "kotlin/with",
+  :block/created-at 1672460903092,
+  :block/updated-at 1672460903092}
  {:block/name "later",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
+ {:block/name "material design",
+  :block/created-at 1672460903120,
+  :block/updated-at 1672460903120}
+ {:block/name "mobi-birthday card app",
+  :block/created-at 1672460900967,
+  :block/updated-at 1672460900967}
+ {:block/name "mobile-dev",
+  :block/created-at 1672460903107,
+  :block/updated-at 1672460903107}
+ {:block/name "mobile-dev/ui-ux",
+  :block/created-at 1672460903123,
+  :block/updated-at 1672460903123}
+ {:block/name "move",
+  :block/created-at 1672460903138,
+  :block/updated-at 1672460903138}
  {:block/name "mvc",
   :block/created-at 1671858373564,
   :block/updated-at 1671858373564}
  {:block/name "now",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
+ {:block/name "page-type",
+  :block/created-at 1672460902535,
+  :block/updated-at 1672460902535}
  {:block/name "postgresql",
   :block/created-at 1671858373665,
   :block/updated-at 1671858373665}
+ {:block/name "product design",
+  :block/created-at 1672460903206,
+  :block/updated-at 1672460903206}
  {:block/name "product manager",
   :block/created-at 1671858373697,
   :block/updated-at 1671858373697}
+ {:block/name "search",
+  :block/created-at 1672460903219,
+  :block/updated-at 1672460903219}
+ {:block/name "segment",
+  :block/created-at 1672460903234,
+  :block/updated-at 1672460903234}
  {:block/name "software engineer",
   :block/created-at 1671858373832,
   :block/updated-at 1671858373832}
@@ -85,12 +241,24 @@
  {:block/name "sql-cheatsheet",
   :block/created-at 1671858373730,
   :block/updated-at 1671858373730}
+ {:block/name "summary",
+  :block/created-at 1672460901489,
+  :block/updated-at 1672460901489}
  {:block/name "swift",
   :block/created-at 1671858373764,
   :block/updated-at 1671858373764}
+ {:block/name "swift/async-await",
+  :block/created-at 1672460902708,
+  :block/updated-at 1672460902708}
  {:block/name "tech lead",
   :block/created-at 1671858373794,
   :block/updated-at 1671858373794}
+ {:block/name "the design of everyday things",
+  :block/created-at 1672460903249,
+  :block/updated-at 1672460903249}
+ {:block/name "the scientist in the crib",
+  :block/created-at 1672460903266,
+  :block/updated-at 1672460903266}
  {:block/name "todo",
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
@@ -104,5 +272,17 @@
   :block/created-at 1671858813539,
   :block/updated-at 1671858813539}
  {:block/name "waiting",
-  :block/created-at 1671858813539, 
-  :block/updated-at 1671858813539}]
+  :block/created-at 1671858813539,
+  :block/updated-at 1671858813539}
+ {:block/name "zsh",
+  :block/created-at 1672460903374,
+  :block/updated-at 1672460903374}
+ {:block/name "zsh/alias",
+  :block/created-at 1672460903385,
+  :block/updated-at 1672460903385}
+ {:block/name "zsh/find-files",
+  :block/created-at 1672460903402,
+  :block/updated-at 1672460903402}
+ {:block/name "zsh/function",
+  :block/created-at 1672460903424, 
+  :block/updated-at 1672460903424}]

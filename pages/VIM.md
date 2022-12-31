@@ -1,7 +1,10 @@
 tags:: coding-language
 icon:: 
 source:: vim-adventure.com
+color:: steelblue
 
+-
+-
 - cheatsheet
 - ![Vim Cheat Sheet.pdf](../assets/Vim_Cheat_Sheet_1671927601068_0.pdf)
 -

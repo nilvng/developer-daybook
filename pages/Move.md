@@ -1,3 +1,5 @@
+page-type:: [[VIM]]
+
 - ### Word,
 	- w
 	- e
