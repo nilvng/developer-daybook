@@ -1,2 +1,4 @@
--
--
+- ## `OnViewCreated()`
+	- Call `LiveData.observe()`
+	- Pass *`viewLifecycleOwner`* as the first parameter to the `observe()` method. The *`viewLifecycleOwner`* represents the [Fragment's View](https://developer.android.com/reference/kotlin/androidx/fragment/app/Fragment.html#getView()) lifecycle. This parameter helps the `LiveData` to be aware of the `GameFragment` lifecycle and notify the observer only when the `GameFragment` is in active states (`STARTED` or `RESUMED`).
+	- Add a lambda as a second parameter with `newWord` as a function parameter. The `newWord` will contain the new scrambled word value.

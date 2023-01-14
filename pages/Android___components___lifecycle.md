@@ -1,2 +1,13 @@
-- ![8dc30a4c12ab71b.png](https://developer.android.com/static/codelabs/basic-android-kotlin-training-fragments-navigation-component/img/8dc30a4c12ab71b.png)
+- ![8dc30a4c12ab71b.png](https://developer.android.com/static/codelabs/basic-android-kotlin-training-fragments-navigation-component/img/8dc30a4c12ab71b.png){:height 408, :width 246}
+-
+- ## OnCreate()
+	- Configure views, sett the layout manager of a recycler view
+	- getting extras from the intent
+	- determining option menu
+-
+- ## Data Loss on device rotation
+	- ![Save small data before destroyed](https://developer.android.com/static/codelabs/basic-android-kotlin-training-activity-lifecycle/img/c259ab6beca0ca88_1920.png){:height 500, :width 300}
+	- ### Use `onSaveInstanceState()`
+	- ### Retrieve data in `onCreate(Bundle)` or `onRestoreInstanceState(Bundle)`
+	-
 -

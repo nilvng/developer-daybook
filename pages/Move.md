@@ -8,6 +8,11 @@ page-type:: [[VIM]]
 - ### sentence, paragraph
 	- sentence `(` and `)`
 	- paragraph `{` and `}`
+- ### jump
+	- `shift+g` end of the file
+	- `g` start of the file
+	- end of current line
+	- start of current line
 - ### screen
 -
 -

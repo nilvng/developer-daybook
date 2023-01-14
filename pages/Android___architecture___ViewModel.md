@@ -1,0 +1,9 @@
+- The [`ViewModel`](https://developer.android.com/topic/libraries/architecture/viewmodel) stores the app related data that isn't destroyed when activity or fragment is destroyed and recreated by the Android framework. `ViewModel` objects are automatically retained (they are not destroyed like the activity or a fragment instance) during configuration changes so that data they hold is immediately available to the next activity or fragment instance.
+-
+- ## Setup
+	- under the **Gradle Scripts** folder, open the file `build.gradle(Module:Unscramble.app)`
+	- verify that you have the ViewModel library dependency inside the `dependencies` block
+	-
+- `viewModels()` gives you the `ViewModel` instance scoped to the current fragment. This will be different for different fragments.
+- `activityViewModels()` gives you the `ViewModel` instance scoped to the current activity. Therefore the instance will remain the same across multiple fragments in the same activity.
+-

@@ -1,0 +1,10 @@
+-
+- On clicking the **Submit** button, the app does not check the player's word. The player always scores points.
+-
+-
+- There is no way to end the game. The app lets you play beyond 10 words.
+-
+-
+- The game screen shows a scrambled word, player's score, and word count. Change the screen orientation by rotating the device or emulator. Notice that the current word, score, and word count are lost and the game restarts from the beginning
+-
+-

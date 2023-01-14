@@ -14,7 +14,7 @@
 		      tools:context=".MainActivity">
 		  ```
 	- `TextView` = Text Field
-	  collapsed:: true
+		-
 		- `android:hint`
 		- `android:inputType`
 	- `RadioGroup`

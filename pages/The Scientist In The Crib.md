@@ -1,4 +1,64 @@
 page-type:: [[Book]]
+summary:: What early learning tells us about the mind
 
+- ## Ancient Questions and a Young Science
+	- Problem of early intelligence
+		- problem of knowledge
+		- [[Other Minds problem]]
+		- problem of external worlds
+		- problem of languages
+	- [[Why children is smart]]
+	- ### Children >< Philosophers
+		- False understanding, [[children were essentially defective adults]]
+	- ### Romantic view on children
+		- children has a special kind of knowledge just because they were so ignorant
+- ## What children learn about people
+	- Newborns
+		- Can babies discrminate human faces? If they do, do they prefer one to the other?
+		- Experiment: videotape + boredom habituation
+		- they so tuned to other people that an abstractly human pattern of lights is riveting
+		- myth: babies are very nearsighted by adult standards, they have difficulty changing their focus to suit both near and far objects
+			- babies seem designed to see the people who love them more clearly than anything else
+		- [[to imitate, babies must understand the similarity between that internal feeling and the external]]
+		- [[Babies flirts]]
+			- flirting is when two are in sync with each other and with nobody else in the room
+	- [[Eternal triangle: I, them and things]]
+		- kid look at where we pointing to
+		- kid looking for our expression
+		- 1yr-old baby imitate people to do thing
+		- 1yr-old discover that their initial rapport with other people extends to set of joint attitude toward the world
+	- Terrible twos
+		- people have desires and that those desires may be different and may even conflict
+		- genuine class between children's need to understand other people and their need to live happily with them
+		- show empathy toward people, don't just feel the pain they try to allay it
+		- [[to genuinely empathic, understand other feels, how to make them better, even you don't feel that way]]
+	- different point of view (to the world)
+		- hiding object behind one backs
+		- 3 years old
+	- Conversations
+		- Babies focus on desires, perceptions and emotions; what other want, see, and feel
+		- Learn about beliefs and reality
+	- [[Love and Deception]]
+		- 3 years old opera: with passionate and sensual embraces and equally passionate despair at separation and jealousy of rivals
+		- sense of "otherness" is the root of erotic emotion, we can't take their love for granted
+	- Why we can't remember our childhood?
+		- We can't understand difference between past thoughts and present thoughts
+	- [[Autism]]
+	- **Siblings**
+		- parent focus on convergence, siblings just looks for difference
+		- outwit the big guys
+- ## What children learn about things
+-
+- ## What children learn about language
+	- Newborn kids can already can distinguish sounds, better than adults
+	- Later their mother-tongue language evolve that the ability is diminishing
+	- How they understand word?
+	- How do they make sentence?
+-
+- ## What scientists have learned about children's minds
+-
+- ## What scientists have learned about children's brains
+-
+- ## Trailing clouds of glory
 -
 -
