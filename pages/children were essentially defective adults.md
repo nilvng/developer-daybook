@@ -1,0 +1,5 @@
+- They defined by things they didn't know or couldn't do
+- they were intuitive, natural not civilzed, driven by passion rather than guided by plans
+- Their minds were captured by appearances, superstitious and magical
+- > children were "tabulae rasae", blank tablet - 17th century philosopher John Locke
+	- passively waiting to be inscribed by reinforcement schedules

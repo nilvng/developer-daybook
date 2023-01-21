@@ -1,0 +1,1 @@
+- they don't have fundamental presupposition that they are like other people and other people are like them

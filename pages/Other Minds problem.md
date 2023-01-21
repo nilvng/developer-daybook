@@ -1,0 +1,1 @@
+- We know, we are like other people and they are like us
