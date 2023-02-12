@@ -7,3 +7,4 @@
 - `viewModels()` gives you the `ViewModel` instance scoped to the current fragment. This will be different for different fragments.
 - `activityViewModels()` gives you the `ViewModel` instance scoped to the current activity. Therefore the instance will remain the same across multiple fragments in the same activity.
 -
+- A [`ViewModelScope`](https://developer.android.com/topic/libraries/architecture/coroutines#viewmodelscope) is the built-in coroutine scope defined for each `ViewModel` in your app. Any coroutine launched in this scope is automatically canceled if the `ViewModel` is cleared.

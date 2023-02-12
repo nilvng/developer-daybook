@@ -1,0 +1,2 @@
+- shows images of Mars surface. This app connects to a web service to retrieve and display the Mars photos. The images are real-life photos from Mars captured from NASA's Mars rovers. Following is the screenshot of the final app, which contains a grid of thumbnail property images, built with a `RecyclerView`
+-

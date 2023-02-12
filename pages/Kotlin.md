@@ -23,3 +23,9 @@ tags:: #coding-language
 	- ```kotlin
 	  data class User(val name: String, val age: Int)
 	  ```
+- ## Singleton
+	- ```kotlin
+	  object DataProviderManager {
+	    
+	  }
+	  ```
